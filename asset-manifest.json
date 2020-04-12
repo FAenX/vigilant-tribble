@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vigilant-tribble/static/css/main.1d48f2e3.chunk.css",
+    "main.js": "/vigilant-tribble/static/js/main.42bf6585.chunk.js",
+    "main.js.map": "/vigilant-tribble/static/js/main.42bf6585.chunk.js.map",
+    "runtime-main.js": "/vigilant-tribble/static/js/runtime-main.93569401.js",
+    "runtime-main.js.map": "/vigilant-tribble/static/js/runtime-main.93569401.js.map",
+    "static/js/2.b32b8d12.chunk.js": "/vigilant-tribble/static/js/2.b32b8d12.chunk.js",
+    "static/js/2.b32b8d12.chunk.js.map": "/vigilant-tribble/static/js/2.b32b8d12.chunk.js.map",
+    "index.html": "/vigilant-tribble/index.html",
+    "precache-manifest.68026324107281b57f6e9abacd67cb35.js": "/vigilant-tribble/precache-manifest.68026324107281b57f6e9abacd67cb35.js",
+    "service-worker.js": "/vigilant-tribble/service-worker.js",
+    "static/css/main.1d48f2e3.chunk.css.map": "/vigilant-tribble/static/css/main.1d48f2e3.chunk.css.map",
+    "static/js/2.b32b8d12.chunk.js.LICENSE.txt": "/vigilant-tribble/static/js/2.b32b8d12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93569401.js",
+    "static/js/2.b32b8d12.chunk.js",
+    "static/css/main.1d48f2e3.chunk.css",
+    "static/js/main.42bf6585.chunk.js"
+  ]
+}
